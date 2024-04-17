@@ -1,0 +1,16 @@
+div{
+    border: 1px solid red;
+    margin: 10px;
+}
+
+#btnred{
+    background-color: red;
+}
+
+#btnblue{
+    background-color: blue;
+}
+
+#rng{
+    background-color: green;
+}
